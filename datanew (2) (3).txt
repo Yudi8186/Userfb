@@ -1,1 +1,3 @@
 
+#EXTINF:-1 group-title="UNTUK LANGGANAN 085815053825" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png",iNews (2) ID
+https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
